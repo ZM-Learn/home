@@ -544,18 +544,19 @@ export const patentsAndDisclosures = {
     {
       content: "Published Patents",
       details: [
-        "[10] System and method for second-order cue word of large language model for digital human intellectualization, Patent # CN116881415 (A) (Published)",
-        "[11] A System and Method for Assets Health Evaluation and Management based on Failure Probability and Condition Monitoring. NTU Ref: 2023-241-01-PCT (Published)"
+        "[10] System and method for second-order cue word of large language model for digital human intellectualization, Patent # CN116881415 (A)",
+        "[11] A System and Method for Assets Health Evaluation and Management based on Failure Probability and Condition Monitoring. NTU Ref: 2023-241-01-PCT"
       ]
     },
     {
       content: "Technical Disclosures",
       details: [
-        "[1] Data-driven method for adaptive frequency control based on deep reinforcement learning in continuous action domain, technical disclosures, NTU signed",
-        "[2] Probabilistic forecasting for EV based on deep learning, technical disclosures, NTU signed",
-        "[3] Temporal-spatial modelling for EV charging behavior, technical disclosures, NTU signed",
-        "[4] Stochastic planning for EV charging infrastructures in HDB car park, technical disclosures, NTU signed",
-        "[5] A system and method for risk valuation, forecasting and sensitivity analysis using monotonic fuzzy inference system for infrastructural asset management, technical disclosures, SPGroup and NTU signed"
+        "[1] Data-driven method for adaptive frequency control based on deep reinforcement learning in continuous action domain, technical disclosures",
+        "[2] Probabilistic forecasting for EV based on deep learning, technical disclosures",
+        "[3] Temporal-spatial modelling for EV charging behavior, technical disclosures",
+        "[4] Stochastic planning for EV charging infrastructures in HDB car park, technical disclosures",
+        "[5] A system and method for risk valuation, forecasting and sensitivity analysis using monotonic fuzzy inference system for infrastructural asset management, technical disclosures",
+        "[6] A System and Method for Assets Health Evaluation and Management Based on Failure Probability and Condition, technical disclosures"
       ]
     }
   ]
