@@ -4,7 +4,7 @@ export const publicationList = {
       title: "Real-Time Optimal Power Flow with Linguistic Stipulations: Integrating GPT-Agent and Deep Reinforcement Learning",
       source: "IEEE Transactions on Power Systems, early access",
       year: "2023",
-      citationCount: "733+",
+      citationCount: "1+",
       extraInfo: "Homepage Popular Article in IEEE TWPRS during 2023-Now"
     },
     {
@@ -380,18 +380,6 @@ export const awardsAndCompetitions = {
           "Meritorious Winner of Mathematical Contest in Modeling of U.S., COMAP, Apr. 2016. Sponsored by the Consortium for Mathematics and Its Application of America."
         ]
       },
-      {
-        content: "Other Competitions and Scholarships",
-        details: [
-          "Higher Mathematics Olympiads of China (non-Mathematics-Specialized group), First Prize, CMS F20140071, Nov. 2014.",
-          "Excellent Thesis Award of Shenzhen cup mathematical modeling summer camp, CSIAM and Shenzhen Association for Science and Technology, Aug. 2015.",
-          "National College Mechanical Design and Innovation Competition (Chongqing Division), Second Prize, Chongqing Education Commission, Jun. 2016.",
-          "China Undergraduate Mathematical Contest in Modeling (Chongqing Division), CSIAM and Chongqing Education Commission, Oct. 2015.",
-          "Chongqing University Student Research Training Program, outstanding project first prize, Chongqing University, Serial No. 150151, Dec. 2015.",
-          "Honorable mention of Freescale smart car contest, Chongqing University, May 2015.",
-          "Integrated Scholarship for Outstanding Students, in China, received 7 times in total from Apr. 2014 to Apr. 2017."
-        ]
-      }
     ]
 };
 
