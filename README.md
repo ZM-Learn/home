@@ -1,10 +1,10 @@
 # Yan Ziming's Homepage
 
-Welcome to the repository for Yan Ziming's personal homepage. Below are the instructions on how to set up the project for development and deployment.
+Welcome to the repository for Yan Ziming's personal homepage. I created this page during spare time and this page may be not up-to-dated. Please look my scholar profile for recent works: https://scholar.google.com/citations?user=IIZfJ8MAAAAJ&hl=en.
 
 ## Prerequisites
 
-Before you begin, ensure that you have the following installed:
+I refer to Github template to create this page and you may reproduce. Before you begin, ensure that you have the following installed:
 
 - **Node.js**: The JavaScript runtime required to run the project. Download and install it from [nodejs.org](https://nodejs.org/).
 - **npm**: The Node Package Manager, which is used for installing dependencies and running scripts. It comes bundled with Node.js.
