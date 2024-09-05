@@ -7,7 +7,7 @@ console.log(publicationList);
 const Publications = () => {
   return (
     <div className='publications'>
-      <h1>Publications (Google Scholar Citation: 733+)</h1>
+      <h1>Publications (Google Scholar Citation: 850+)</h1>
       <div className='publication-container'>
         <h2>Data-driven Operation and Control of Power Systems:</h2>
         {publicationList.dataDrivenOperationAndControl.map((pub, index) => (
