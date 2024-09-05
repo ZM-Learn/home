@@ -7,7 +7,7 @@ const { Content, Sider } = Layout;
 
 const userInfo = {
   name: 'Yan Ziming',
-  bio: 'SP Group NTU Presidential Postdoctoral Fellow. Area of interests include operation, control, and realibility of power systems, with applications of data-analytics and advanced machine learning techniques.'
+  bio: 'SP Group NTU Presidential Postdoctoral Fellow. Area of interests include (i) intelligent agents for power systems operation and control (secured machine learning and large language models), (ii) data-analytics for industrial systems reliability and asset management (industrial data considering GIS and climate).'
 }
 
 const contactLinks = [
