@@ -3,9 +3,9 @@ export const publicationList = {
     {
       title: "Real-Time Optimal Power Flow with Linguistic Stipulations: Integrating GPT-Agent and Deep Reinforcement Learning",
       source: "IEEE Transactions on Power Systems, early access",
-      year: "2023",
-      citationCount: "1+",
-      extraInfo: "Homepage Popular Article in IEEE TWPRS during 2023-Now"
+      year: "2024",
+      citationCount: "5",
+      extraInfo: "Homepage Popular Article in IEEE TWPRS"
     },
     {
       title: "Data-Driven Load Frequency Control for Stochastic Power Systems: A Deep Reinforcement Learning Method With Continuous Action Search",
